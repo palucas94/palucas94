@@ -9,6 +9,8 @@ I'm a Full Stack Web Development student at [Trybe](https://www.betrybe.com/) si
 - ✳️ Fluent in Portuguese, English and French
 - 🎮 I love numbers, technology, gaming and sports ⚽
 
+[Check my portfolio here](https://palucas.vercel.app/).
+
 #### Connect with me:
 
 <a href="https://www.linkedin.com/in/lucas-pontes-arruda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
